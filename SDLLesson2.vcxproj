@@ -11,10 +11,17 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Lesson.cpp" />
-    <ClCompile Include="Lesson4.cpp" />
-    <ClCompile Include="Lesson5.cpp" />
-    <ClCompile Include="Lesson6.cpp" />
+    <ClCompile Include="01_InitWindow.cpp" />
+    <ClCompile Include="02_Events_Images.cpp" />
+    <ClCompile Include="03_Scale_Images.cpp" />
+    <ClCompile Include="04_PNG_Images.cpp" />
+    <ClCompile Include="05_Texutre_Loading_And_Rendering.cpp" />
+    <ClCompile Include="06_Geometry_Rendering.cpp" />
+    <ClCompile Include="07_ViewPorts.cpp" />
+    <ClCompile Include="08_Color_Keying.cpp" />
+    <ClCompile Include="09_Clip_Rendering_Sprite_Sheets.cpp" />
+    <ClCompile Include="10_Color_Modulation.cpp" />
+    <ClCompile Include="11_Animation_Walk.cpp" />
     <ClCompile Include="LessonP2.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

@@ -1,17 +1,24 @@
-﻿Build started 2014-06-24 23:49:02.
-     1>Project "C:\Users\LgLinuss\Documents\Visual Studio 2013\Projects\SDLLesson2\SDLLesson2\SDLLesson2.vcxproj" on node 2 (Build target(s)).
+﻿Build started 2014-06-29 20:55:08.
+     1>Project "C:\Users\LgLinuss\documents\visual studio 2013\Projects\SDLLesson2\SDLLesson2\SDLLesson2.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Lesson6.cpp
-         Lesson6.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 11_Animation_Walk.cpp
+         11_Animation_Walk.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\LgLinuss\Documents\Visual Studio 2013\Projects\SDLLesson2\Debug\SDLLesson2.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Windows Kits\8.1\\lib" SDL2.lib SDL2main.lib SDL2_image.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\LgLinuss\Documents\Visual Studio 2013\Projects\SDLLesson2\Debug\SDLLesson2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\LgLinuss\Documents\Visual Studio 2013\Projects\SDLLesson2\Debug\SDLLesson2.lib" /MACHINE:X86 Debug\Lesson.obj
-         Debug\Lesson4.obj
-         Debug\Lesson5.obj
-         Debug\Lesson6.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\LgLinuss\documents\visual studio 2013\Projects\SDLLesson2\Debug\SDLLesson2.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Windows Kits\8.1\\lib" SDL2.lib SDL2main.lib SDL2_image.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\LgLinuss\documents\visual studio 2013\Projects\SDLLesson2\Debug\SDLLesson2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\LgLinuss\documents\visual studio 2013\Projects\SDLLesson2\Debug\SDLLesson2.lib" /MACHINE:X86 Debug\01_InitWindow.obj
+         Debug\02_Events_Images.obj
+         Debug\03_Scale_Images.obj
+         Debug\04_PNG_Images.obj
+         Debug\05_Texutre_Loading_And_Rendering.obj
+         Debug\06_Geometry_Rendering.obj
+         Debug\07_ViewPorts.obj
+         Debug\08_Color_Keying.obj
+         Debug\09_Clip_Rendering_Sprite_Sheets.obj
+         Debug\10_Color_Modulation.obj
+         Debug\11_Animation_Walk.obj
          Debug\LessonP2.obj
-         SDLLesson2.vcxproj -> C:\Users\LgLinuss\Documents\Visual Studio 2013\Projects\SDLLesson2\Debug\SDLLesson2.exe
-     1>Done Building Project "C:\Users\LgLinuss\Documents\Visual Studio 2013\Projects\SDLLesson2\SDLLesson2\SDLLesson2.vcxproj" (Build target(s)).
+         SDLLesson2.vcxproj -> C:\Users\LgLinuss\documents\visual studio 2013\Projects\SDLLesson2\Debug\SDLLesson2.exe
+     1>Done Building Project "C:\Users\LgLinuss\documents\visual studio 2013\Projects\SDLLesson2\SDLLesson2\SDLLesson2.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.64
+Time Elapsed 00:00:01.36

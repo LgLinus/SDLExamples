@@ -15,19 +15,40 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Lesson.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="LessonP2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Lesson4.cpp">
+    <ClCompile Include="01_InitWindow.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Lesson5.cpp">
+    <ClCompile Include="02_Events_Images.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Lesson6.cpp">
+    <ClCompile Include="03_Scale_Images.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="04_PNG_Images.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="05_Texutre_Loading_And_Rendering.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="06_Geometry_Rendering.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="07_ViewPorts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="08_Color_Keying.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="09_Clip_Rendering_Sprite_Sheets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="10_Color_Modulation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="11_Animation_Walk.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
